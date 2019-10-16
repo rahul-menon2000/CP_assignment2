@@ -1,0 +1,6 @@
+A player have to roll 2 die.When the die settles down sum of dots on the two upward faces are calculated.
+if the sum is 7 or 11 on the first attempt the player wins.
+If the sum is 2,3or 12 on the first attemptthe player loses.
+If the sum is 4,5,6,8,9,10 on the first attempt them that sum becomes the player's poin
+t.To win the player must continue rolling the die until he makes his point.
+The player loses the game if the sum is 7 before making the point.
